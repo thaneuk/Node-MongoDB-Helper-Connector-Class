@@ -6,7 +6,7 @@ const
 
 /**
  * Base MongoDB connector class for a single collection
- * class DbConnectorCollection
+ * @class DbConnectorCollection
  * @author Gregory Jackson
  */
 class DbConnectorCollection extends DbConnector {
