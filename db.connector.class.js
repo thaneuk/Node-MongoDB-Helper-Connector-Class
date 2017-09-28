@@ -15,7 +15,7 @@
 
 /**
  * Base MongoDB connector class
- * class DbConnector
+ * @class DbConnector
  * @author Gregory Jackson
  */
 class DbConnector {
